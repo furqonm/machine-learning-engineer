@@ -9,5 +9,5 @@
 1. [Transcribe Audio Using the Speech-to-Text API](https://www.skills.google/paths/17/course_templates/631/labs/629216)
 2. [Agent Platform: Training and Serving a Custom Model](https://www.skills.google/paths/17/course_templates/17/labs/648428)
 3. [Running Pipelines on Agent Platform 2.5](https://www.skills.google/course_templates/55/labs/521744)
-4. [Working with Cloud Dataprep on Google Cloud](https://www.skills.google/course_templates/773/labs/499688)
+4. [Working with Cloud Dataprep on Google Cloud (optional)](https://www.skills.google/course_templates/773/labs/499688)
 5. [Introduction to Gemini Enterprise](https://www.skills.google/focuses/124709?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=102892027)
